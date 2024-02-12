@@ -1,7 +1,5 @@
 # Facescan
 
-https://raw.githubusercontent.com/DrBabaBoy/FaceScan/main/img/Animation.gif
-
 ## Descripción
 
 Facescan es un proyecto desarrollado en Python que permite la detección y reconocimiento facial utilizando técnicas de visión por computadora.
