@@ -1,3 +1,6 @@
+
+use facescan;
+
 -- Número total de administradores.
 SELECT TotalAdmins() AS TotalAdministradores;
 -- Últimos 10 administradores
